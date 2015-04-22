@@ -11184,8 +11184,8 @@ Chart.prototype = {
 	/**
 	 * Show the title and subtitle of the chart
 	 *
-	 * @param titleOptions {Object} New title options
-	 * @param subtitleOptions {Object} New subtitle options
+	 * @param titleOptions {Object} Cool title options
+	 * @param subtitleOptions {Object} Cool subtitle options
 	 *
 	 */
 	setTitle: function (titleOptions, subtitleOptions) {

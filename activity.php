@@ -32,7 +32,7 @@ assign_dynamic('activity');
 $position = assign_ur_here(0, $_LANG['shopping_activity']);
 $smarty->assign('page_title',       $position['title']);    // 页面标题
 $smarty->assign('ur_here',          $position['ur_here']);  // 当前位置
-    $smarty->assign('helps',           get_shop_help());       // 网店帮助
+$smarty->assign('helps',           get_shop_help());       // 网店帮助
 // 数据准备
 
     /* 取得用户等级 */

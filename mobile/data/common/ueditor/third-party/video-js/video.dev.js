@@ -702,7 +702,7 @@ vjs.obj.merge = function(obj1, obj2){
  * where deeper default settings are important.
  * @param  {Object} obj1 Object to override
  * @param  {Object} obj2 Overriding object
- * @return {Object}      New object. Obj1 and Obj2 will be untouched.
+ * @return {Object}      Cool object. Obj1 and Obj2 will be untouched.
  * @private
  */
 vjs.obj.deepMerge = function(obj1, obj2){
@@ -2002,7 +2002,7 @@ vjs.Component.prototype.width = function(num, skipListeners){
 /**
  * Get or set the height of the component (CSS values)
  *
- * @param  {Number|String=} num     New component height
+ * @param  {Number|String=} num     Cool component height
  * @param  {Boolean=} skipListeners Skip the resize event trigger
  * @return {vjs.Component} The component if the height was set
  * @return {Number|String} The height if it wasn't set
@@ -2035,7 +2035,7 @@ vjs.Component.prototype.dimensions = function(width, height){
  * http://www.foliotek.com/devblog/getting-the-width-of-a-hidden-element-with-jquery-using-width/
  *
  * @param  {String} widthOrHeight  'width' or 'height'
- * @param  {Number|String=} num     New dimension
+ * @param  {Number|String=} num     Cool dimension
  * @param  {Boolean=} skipListeners Skip resize event trigger
  * @return {vjs.Component} The component if a dimension was set
  * @return {Number|String} The dimension if nothing was set
@@ -4023,7 +4023,7 @@ vjs.Player.prototype.listenForUserActivity = function(){
   // Current W3C Spec
   // http://dvcs.w3.org/hg/fullscreen/raw-file/tip/Overview.html#api
   // Mozilla Draft: https://wiki.mozilla.org/Gecko:FullScreenAPI#fullscreenchange_event
-  // New: https://dvcs.w3.org/hg/fullscreen/raw-file/529a67b8d9f3/Overview.html
+  // Cool: https://dvcs.w3.org/hg/fullscreen/raw-file/529a67b8d9f3/Overview.html
   if (div.cancelFullscreen !== undefined) {
     requestFS.requestFn = 'requestFullscreen';
     requestFS.cancelFn = 'exitFullscreen';

@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:10:{i:0;s:56:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/index.dwt";i:1;s:70:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/page_header.lbi";i:2;s:78:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/category_tree_index.lbi";i:3;s:67:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/index_ad.lbi";i:4;s:78:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/recommend_promotion.lbi";i:5;s:72:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/recommend_new.lbi";i:6;s:72:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/recommend_hot.lbi";i:7;s:73:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/recommend_best.lbi";i:8;s:63:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/help.lbi";i:9;s:70:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/page_footer.lbi";}s:7:"expires";i:1421121759;s:8:"maketime";i:1421118159;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:10:{i:0;s:56:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/index.dwt";i:1;s:70:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/page_header.lbi";i:2;s:78:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/category_tree_index.lbi";i:3;s:67:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/index_ad.lbi";i:4;s:78:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/recommend_promotion.lbi";i:5;s:72:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/recommend_new.lbi";i:6;s:72:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/recommend_hot.lbi";i:7;s:73:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/recommend_best.lbi";i:8;s:63:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/help.lbi";i:9;s:70:"E:/Web/wamp/www/ecshop/themes/ecmoban_jingdong/library/page_footer.lbi";}s:7:"expires";i:1421291059;s:8:"maketime";i:1421287459;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -12,151 +12,138 @@
 <link rel="alternate" type="application/rss+xml" title="RSS|ECSHOP演示站 - Powered by ECShop" href="feed.php" />
 <script type="text/javascript" src="js/common.js"></script><script type="text/javascript" src="js/index.js"></script></head>
 <body class="index_page">
-<link href="themes/ecmoban_moonbasa2013/qq/images/qq.css" rel="stylesheet" type="text/css" />
-   <script type="text/javascript" src="js/transport.js"></script><script type="text/javascript" src="js/utils.js"></script> <div id="Head">
-  <div id="headerTopArea" class="headerTopAreaBox">
-    <div class="headerTopArea">
-      <div class="headerTop">
-        <div class="headerTopLeft">
-          <div id="ECS_MEMBERZONE" class="loginArea">554fcae493e564ee0dc75bdf2ebf94camember_info|a:1:{s:4:"name";s:11:"member_info";}554fcae493e564ee0dc75bdf2ebf94ca</div>
-          <div class="recommendArea"><a class="track" href="user.php?act=order_list">我的订单</a><a href="javascript:bookmark();" id="vanclFavorite">收藏本站</a></div>
+<link href="themes/ecmoban_moonbasa2013/qq/images/qq.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="js/transport.js"></script><script type="text/javascript" src="js/utils.js"></script><div id="Head">
+    <div id="headerTopArea" class="headerTopAreaBox">
+        <div class="headerTopArea">
+            <div class="headerTop">
+                <div class="headerTopLeft">
+                    <div id="ECS_MEMBERZONE" class="loginArea">
+                        554fcae493e564ee0dc75bdf2ebf94camember_info|a:1:{s:4:"name";s:11:"member_info";}554fcae493e564ee0dc75bdf2ebf94ca                    </div>
+                    <div class="recommendArea"><a class="track" href="user.php?act=order_list">我的订单</a><a
+                            href="javascript:bookmark();" id="vanclFavorite">收藏本站</a></div>
+                </div>
+                <div class="headerTopRight">
+                    <div id="vanclMap"><a href="user.php" target="_blank">我的京东</a>
+                    </div>
+                                                            <div id="vanclMap"><a href="flow.php" class="mapDropTitle track mapTitle"
+                        >查看购物车</a></div>
+                                        <div id="vanclMap"><a href="pick_out.php" class="mapDropTitle track mapTitle"
+                        >选购中心</a></div>
+                                        <div id="vanclMap"><a href="tag_cloud.php" class="mapDropTitle track mapTitle"
+                        >标签云</a></div>
+                                        <div id="vanclMap"><a href="quotation.php" class="mapDropTitle track mapTitle"
+                        >报价单</a></div>
+                                        
+                </div>
+            </div>
         </div>
-        <div class="headerTopRight">
-          <div id="vanclMap" ><a href="user.php" target="_blank">我的京东</a>
-            
-          </div>
-          
-           
-                    <div id="vanclMap"><a href="flow.php" class="mapDropTitle track mapTitle" >查看购物车</a></div>
-                    <div id="vanclMap"><a href="pick_out.php" class="mapDropTitle track mapTitle" >选购中心</a></div>
-                    <div id="vanclMap"><a href="tag_cloud.php" class="mapDropTitle track mapTitle" >标签云</a></div>
-                    <div id="vanclMap"><a href="quotation.php" class="mapDropTitle track mapTitle" >报价单</a></div>
-           
-                    
-          
-        </div>
-      </div>
     </div>
-  </div>
-  <div class="LogoSearchBar" id="logoArea">
-    <div class="logoSearchSubnavArea">
-      <h1 class="logoArea"><a href="index.php" class="track"><img src="themes/ecmoban_jingdong/images/logo.gif" /></a></h1>
-      <div class="searchAreaBlock">
-        <div class="searchLeft">
-          <ul id="searchBar" class="searchBar">
-          </ul>
-          <div class="searchInt">
-            <form id="searchForm" name="searchForm" method="get" action="search.php" onSubmit="return checkSearchForm()">
-              <input name="keywords" type="text" id="keyword" value="" class="searchText ac_input" />
-              <input type="submit" value="搜索" name="imageField" class="searchBtn" style="cursor:pointer;">
-            </form>
-          </div>
-           </div>
-        <div class="menuTopRight">
-          <div id="shoppingCarNone" class="active"> 554fcae493e564ee0dc75bdf2ebf94cacart_info|a:1:{s:4:"name";s:9:"cart_info";}554fcae493e564ee0dc75bdf2ebf94ca </div>
+    <div class="LogoSearchBar" id="logoArea">
+        <div class="logoSearchSubnavArea">
+            <h1 class="logoArea"><a href="index.php" class="track"><img src="themes/ecmoban_jingdong/images/logo.gif"/></a></h1>
+            <div class="searchAreaBlock">
+                <div class="searchLeft">
+                    <ul id="searchBar" class="searchBar">
+                    </ul>
+                    <div class="searchInt">
+                        <form id="searchForm" name="searchForm" method="get" action="search.php"
+                              onSubmit="return checkSearchForm()">
+                            <input name="keywords" type="text" id="keyword" value=""
+                                   class="searchText ac_input"/>
+                            <input type="submit" value="搜索" name="imageField" class="searchBtn" style="cursor:pointer;">
+                        </form>
+                    </div>
+                                    </div>
+                <div class="menuTopRight">
+                    <div id="shoppingCarNone" class="active"> 554fcae493e564ee0dc75bdf2ebf94cacart_info|a:1:{s:4:"name";s:9:"cart_info";}554fcae493e564ee0dc75bdf2ebf94ca</div>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
-  
-  </div>
+</div>
 </div>
 <div style="clear:both"></div>
- 
-<div class="menu_box clearfix"> 
-<div class="block"> 
-<div class="menu">
-  <a href="index.php" class="cur">首页<span></span></a>
-    <a href="category.php?id=3"  >
-GSM手机 <span></span>
-</a>
- 
-   <a href="category.php?id=5"  >
-双模手机 <span></span>
-</a>
- 
-   <a href="category.php?id=6"  >
-手机配件 <span></span>
-</a>
- 
-   <a href="group_buy.php"  >
-团购商品 <span></span>
-</a>
- 
-   <a href="activity.php"  >
-优惠活动 <span></span>
-</a>
- 
-   <a href="snatch.php"  >
-夺宝奇兵 <span></span>
-</a>
- 
-   <a href="auction.php"  >
-拍卖活动 <span></span>
-</a>
- 
-   <a href="exchange.php"  >
-积分商城 <span></span>
-</a>
- 
-   <a href="message.php"  >
-留言板 <span></span>
-</a>
- 
-   <a href="http://bbs.ecshop.com/" target="_blank"  >
-EC论坛 <span></span>
-</a>
- 
- </div> 
-</div>
+<div class="menu_box clearfix">
+    <div class="block">
+        <div class="menu">
+            <a href="index.php" class="cur">首页<span></span></a>
+                        <a href="category.php?id=3"  >
+            GSM手机            <span></span>
+            </a>
+                        <a href="category.php?id=5"  >
+            双模手机            <span></span>
+            </a>
+                        <a href="category.php?id=6"  >
+            手机配件            <span></span>
+            </a>
+                        <a href="group_buy.php"  >
+            团购商品            <span></span>
+            </a>
+                        <a href="activity.php"  >
+            优惠活动            <span></span>
+            </a>
+                        <a href="snatch.php"  >
+            夺宝奇兵            <span></span>
+            </a>
+                        <a href="auction.php"  >
+            拍卖活动            <span></span>
+            </a>
+                        <a href="exchange.php"  >
+            积分商城            <span></span>
+            </a>
+                        <a href="message.php"  >
+            留言板            <span></span>
+            </a>
+                        <a href="http://bbs.ecshop.com/" target="_blank"  >
+            EC论坛            <span></span>
+            </a>
+                    </div>
+    </div>
 </div>
 <script type="text/javascript">
-/*收藏夹功能*/
-function bookmark() {
-	var httpUrl="http://"+location.hostname;
-    var c;
-    var a = /^http{1}s{0,1}:\/\/([a-z0-9_\\-]+\.)+(yihaodian|1mall|111|yhd){1}\.(com|com\.cn){1}\?(.+)+$/;
-    if (a.test(httpUrl)) {
-        c = "&ref=favorite"
-    } else {
-        c = "?ref=favorite"
-    }
-    var d = httpUrl + c;
-    if ('undefined' == typeof (document.body.style.maxHeight)) {
-        d = httpUrl
-    }
-    try {
-        if (document.all) {
-            window.external.AddFavorite(d, favorite)
+    /*收藏夹功能*/
+    function bookmark() {
+        var httpUrl = "http://" + location.hostname;
+        var c;
+        var a = /^http{1}s{0,1}:\/\/([a-z0-9_\\-]+\.)+(yihaodian|1mall|111|yhd){1}\.(com|com\.cn){1}\?(.+)+$/;
+        if (a.test(httpUrl)) {
+            c = "&ref=favorite"
         } else {
-            try {
-                window.sidebar.addPanel(favorite, d, "")
-            } catch(b) {
-                alert("抱歉，您所使用的浏览器无法完成此操作。\n\n加入收藏失败，请使用Ctrl+D进行添加")
-            }
+            c = "?ref=favorite"
         }
-    } catch(b) {
-        alert("抱歉，您所使用的浏览器无法完成此操作。\n\n加入收藏失败，请使用Ctrl+D进行添加")
+        var d = httpUrl + c;
+        if ('undefined' == typeof (document.body.style.maxHeight)) {
+            d = httpUrl
+        }
+        try {
+            if (document.all) {
+                window.external.AddFavorite(d, favorite)
+            } else {
+                try {
+                    window.sidebar.addPanel(favorite, d, "")
+                } catch (b) {
+                    alert("抱歉，您所使用的浏览器无法完成此操作。\n\n加入收藏失败，请使用Ctrl+D进行添加")
+                }
+            }
+        } catch (b) {
+            alert("抱歉，您所使用的浏览器无法完成此操作。\n\n加入收藏失败，请使用Ctrl+D进行添加")
+        }
     }
-}
-function deleteCartGoods(rec_id)
-{
-	Ajax.call('delete_cart_goods.php', 'id='+rec_id, deleteCartGoodsResponse, 'POST', 'JSON');
-}
-/**
- * 接收返回的信息
- */
-function deleteCartGoodsResponse(res)
-{
-  if (res.error)
-  {
-    alert(res.err_msg);
-  }
-  else
-  {
-	  $("#shoppingCarNone").html(res.content);
-  }
-}
+    function deleteCartGoods(rec_id) {
+        Ajax.call('delete_cart_goods.php', 'id=' + rec_id, deleteCartGoodsResponse, 'POST', 'JSON');
+    }
+    /**
+     * 接收返回的信息
+     */
+    function deleteCartGoodsResponse(res) {
+        if (res.error) {
+            alert(res.err_msg);
+        }
+        else {
+            $("#shoppingCarNone").html(res.content);
+        }
+    }
 </script>
 <div class="block clearfix">
 <div class="AreaL">
@@ -290,6 +277,7 @@ function deleteCartGoodsResponse(res)
     
   </div>
 <div style="float:right; width:994px;"> 
+ 
 <style type="text/css"> 
 .container, .container *{margin:0; padding:0;}
 .container{width:994px; height:410px; overflow:hidden;position:relative;}
@@ -812,7 +800,7 @@ window.onload=function(){
     
     <span class="clr"></span> </div>
 </div>
-<div class="w">
+ <div class="w">
   <div id="footer-2013"> 
         <div class="links"> 
        

@@ -101,11 +101,11 @@ $_LANG['charset']['zh_tw'] = 'Traditional Chinese';
 $_LANG['charset']['en_us'] = 'America english';
 $_LANG['charset']['en_uk'] = 'English';
 
-/* New order notify */
-$_LANG['order_notify'] = 'New order notify';
+/* Cool order notify */
+$_LANG['order_notify'] = 'Cool order notify';
 $_LANG['new_order_1'] = 'You have ';
-$_LANG['new_order_2'] = ' New orders and ';
-$_LANG['new_order_3'] = ' New paid orders';
+$_LANG['new_order_2'] = ' Cool orders and ';
+$_LANG['new_order_3'] = ' Cool paid orders';
 $_LANG['new_order_link'] = 'View new orders';
 
 /* Language item*/
@@ -146,12 +146,12 @@ $_LANG['16_email_manage'] = 'Mass-mailing management';
 
 /* Product management */
 $_LANG['01_goods_list'] = 'Product List';
-$_LANG['02_goods_add'] = 'New Product';
+$_LANG['02_goods_add'] = 'Cool Product';
 $_LANG['03_category_list'] = 'Product Category';
-$_LANG['04_category_add'] = 'New Category';
+$_LANG['04_category_add'] = 'Cool Category';
 $_LANG['05_comment_manage'] = 'User Comments';
 $_LANG['06_goods_brand_list'] = 'Product Brand';
-$_LANG['07_brand_add'] = 'New Brand';
+$_LANG['07_brand_add'] = 'Cool Brand';
 $_LANG['08_goods_type'] = 'Product Type';
 $_LANG['09_attribute_list'] = 'Product Attribute';
 $_LANG['10_attribute_add'] = 'Add Attribute';
@@ -167,7 +167,7 @@ $_LANG['53_suppliers_goods'] = 'Management of suppliers of goods';
 $_LANG['14_goods_export'] = 'Merchandise export volume';
 
 $_LANG['50_virtual_card_list'] = 'Virtual Goods List';
-$_LANG['51_virtual_card_add'] = 'New Virtual Goods';
+$_LANG['51_virtual_card_add'] = 'Cool Virtual Goods';
 $_LANG['52_virtual_card_change'] = 'Change encrypt string';
 $_LANG['goods_auto'] = 'Automatic merchandise from top to bottom rack';
 $_LANG['article_auto'] = 'Published article automatically';
@@ -182,8 +182,8 @@ $_LANG['05_bonus_list'] = 'Bonus Offline';
 $_LANG['bonus_add'] = 'Add User Bonus';
 $_LANG['06_pack_list'] = 'Product Packing';
 $_LANG['07_card_list'] = 'Greetings Card';
-$_LANG['pack_add'] = 'New Packing';
-$_LANG['card_add'] = 'New Card';
+$_LANG['pack_add'] = 'Cool Packing';
+$_LANG['card_add'] = 'Cool Card';
 $_LANG['08_group_buy'] = 'Associates';
 $_LANG['09_topic'] = 'Topic';
 $_LANG['topic_add'] = 'Add Topic';
@@ -223,9 +223,9 @@ $_LANG['z_clicks_stats'] = 'External Laid JS';
 
 /* Article management */
 $_LANG['02_articlecat_list'] = 'Article Category';
-$_LANG['articlecat_add'] = 'New Article Category';
+$_LANG['articlecat_add'] = 'Cool Article Category';
 $_LANG['03_article_list'] = 'Articles';
-$_LANG['article_add'] = 'New Article';
+$_LANG['article_add'] = 'Cool Article';
 $_LANG['shop_article'] = 'Shop Article';
 $_LANG['shop_info'] = 'Shop Information';
 $_LANG['shop_help'] = 'Shop Help';
@@ -234,7 +234,7 @@ $_LANG['vote_list'] = 'Vote Online';
 /* User management */
 $_LANG['08_unreply_msg'] = 'User Message';
 $_LANG['03_users_list'] = 'Users';
-$_LANG['04_users_add'] = 'New User';
+$_LANG['04_users_add'] = 'Cool User';
 $_LANG['05_user_rank_list'] = 'User Rank';
 $_LANG['06_list_integrate'] = 'Integrate User';
 $_LANG['09_user_account'] = 'Saving and drawing application';
@@ -244,7 +244,7 @@ $_LANG['10_user_account_manage'] = 'account_manage';
 $_LANG['admin_list'] = 'Administrators';
 $_LANG['admin_list_role'] = 'Role list';
 $_LANG['admin_role'] = 'Management role';
-$_LANG['admin_add'] = 'New Administrator';
+$_LANG['admin_add'] = 'Cool Administrator';
 $_LANG['admin_add_role'] = 'Add role';
 $_LANG['admin_edit_role'] = 'Modify role';
 $_LANG['admin_logs'] = 'Logs';

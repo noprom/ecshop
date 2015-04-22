@@ -241,7 +241,7 @@ if (XRegExp) {
 
 
     //---------------------------------
-    //  New RegExp prototype methods
+    //  Cool RegExp prototype methods
     //---------------------------------
 
     // Accepts a context object and arguments array; returns the result of calling `exec` with the
@@ -1041,7 +1041,7 @@ if (typeof(SyntaxHighlighter) == 'undefined') var SyntaxHighlighter = function()
     /**
      * Adds CSS class name to the target DOM element.
      * @param {DOMElement} target Target DOM element.
-     * @param {String} className New CSS class to add.
+     * @param {String} className Cool CSS class to add.
      */
     function addClass(target, className)
     {
@@ -3574,7 +3574,7 @@ typeof(exports) != 'undefined' ? exports.SyntaxHighlighter = SyntaxHighlighter :
 						'Else ElseIf End Enum Erase Error Event Exit False Finally For Friend ' +
 						'Function Get GetType GoSub GoTo Handles If Implements Imports In ' +
 						'Inherits Integer Interface Is Let Lib Like Long Loop Me Mod Module ' +
-						'MustInherit MustOverride MyBase MyClass Namespace New Next Not Nothing ' +
+						'MustInherit MustOverride MyBase MyClass Namespace Cool Next Not Nothing ' +
 						'NotInheritable NotOverridable Object On Option Optional Or OrElse ' +
 						'Overloads Overridable Overrides ParamArray Preserve Private Property ' +
 						'Protected Public RaiseEvent ReadOnly ReDim REM RemoveHandler Resume ' +
